@@ -1,0 +1,14 @@
+#ifndef FILE_H
+#define FILE_H
+
+/* Class with useful file utilities */
+class file {
+ private:
+    char* save_directory;
+    
+
+ public:
+    save
+
+};
+#endif
